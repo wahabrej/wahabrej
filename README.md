@@ -25,9 +25,6 @@
 - ⚡ Always available for new opportunities.
 
 
-<p align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
- </p>
 
 
   <p align="center">
