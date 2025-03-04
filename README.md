@@ -32,8 +32,8 @@
 
   <p align="center">
 <!-- Github stats -->
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=algolia&show_icons=true&count_private=true" />
-<br/>
+<!--    <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=algolia&show_icons=true&count_private=true" />
+<br/> -->
  <!-- Top Languages Card -->
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojebsikder&theme=algolia&layout=compact" />
    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sojebsikder&theme=algolia" />
