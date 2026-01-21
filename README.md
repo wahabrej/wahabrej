@@ -13,16 +13,10 @@
   </p>
 </div>
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 <!-- Gorgeous Professional Summary -->
 <div align="center">
@@ -46,16 +40,10 @@
   <p><em>Immediately available for remote or onsite roles where code quality, performance, and user delight matter most.<br>Let’s build something extraordinary together.</em></p>
 </div>
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 ### Tech Stack
 <p align="center">
@@ -85,16 +73,10 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 ### GitHub Stats
 <p align="center">
@@ -110,32 +92,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahabrej&theme=dracula" alt="Profile Details Summary" width="85%" />
 </p>
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 ### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=wahabrej&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 ### Professional Experience
 
@@ -157,16 +127,10 @@ United Group (Orange Solution Ltd) — Dhaka, Bangladesh
 - Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
 - Transformed raw data into intuitive, data-driven user interfaces  
 
-<!-- Animated gradient divider -->
-<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
-  <style>
-    @keyframes gradientFlow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</div>
+<!-- Final moving light divider -->
+<p align="center">
+  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
+</p>
 
 Open to exciting collaborations, freelance projects, or full-time opportunities.  
 Let’s create mobile magic together! 🚀
