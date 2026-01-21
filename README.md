@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohammad+Wahab;+Flutter+%26+iOS+(Swift)+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohammad+Wahab;Senior+Flutter+%26+iOS+(Swift)+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -60,12 +60,16 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahabrej&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrej&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wahabrej&show_icons=true&theme=dracula&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=10B981&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats Overview" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahabrej&layout=compact&theme=dracula&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=FFFFFF&langs_count=6&hide=html,css" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahabrej&layout=compact&theme=dracula&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrej&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahabrej&theme=dracula" alt="Profile Details Summary" width="85%" />
 </p>
 
 ### GitHub Trophies
