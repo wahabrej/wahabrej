@@ -13,10 +13,10 @@
   </p>
 </div>
 
-<!-- Moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 <!-- Gorgeous Professional Summary -->
 <div align="center">
@@ -40,10 +40,10 @@
   <p><em>Immediately available for remote or onsite roles where code quality, performance, and user delight matter most.<br>Let’s build something extraordinary together.</em></p>
 </div>
 
-<!-- Moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 ### Tech Stack
 <p align="center">
@@ -73,10 +73,10 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
 
-<!-- Moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 ### GitHub Stats
 <p align="center">
@@ -92,20 +92,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahabrej&theme=dracula" alt="Profile Details Summary" width="85%" />
 </p>
 
-<!-- Moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 ### GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=wahabrej&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
-<!-- Moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 ### Professional Experience
 
@@ -127,10 +127,10 @@ United Group (Orange Solution Ltd) — Dhaka, Bangladesh
 - Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
 - Transformed raw data into intuitive, data-driven user interfaces  
 
-<!-- Final moving light divider -->
-<p align="center">
-  <img src="https://i.imgur.com/ZpWvN9M.gif" width="100%" height="8" alt="Animated Moving Light Divider">
-</p>
+<!-- Final animated sparkling wave divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%"/>
+</div>
 
 Open to exciting collaborations, freelance projects, or full-time opportunities.  
 Let’s create mobile magic together! 🚀
