@@ -1,8 +1,5 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&height=100&multiline=true&lines=Hi+👋+I'm+Mohammad+Wahab;Flutter+%2F+Kotlin+%26+iOS+(Swift)+Engineer" 
-    alt="Typing SVG" 
-  />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+my+Developer+Space;I%27m+Mohammad+Wahab;Software+Engineer;Flutter+%7C+Swift+%7C+Kotlin;Mobile++Application+Specialist" alt="Typing SVG" />
 </div>
 
 <div align="center">
