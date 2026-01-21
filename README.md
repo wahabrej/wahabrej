@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mohammad+Wahab;Senior+Flutter+%26+iOS+(Swift)+Engineer" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=100&multiline=true&lines=Hi+👋+I'm+Mohammad+Wahab;Senior+Flutter+%26+iOS+(Swift)+Engineer" 
+    alt="Typing SVG" 
+  />
 </div>
 
 <div align="center">
@@ -65,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wahabrej&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="70%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=wahabrej&theme=dracula&hide_border=true&background=0F172A&stroke=38BDF8&ring=10B981&fire=38BDF8&currStreakNum=FFFFFF&sideNums=10B981&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" alt="GitHub Streak" width="70%" />
 </p>
 
 <p align="center">
@@ -74,7 +77,8 @@
 
 ### GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wahabrej&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+  <!-- Using preview/fix branch from repo issues as temporary workaround -->
+  <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=wahabrej&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
