@@ -1,13 +1,27 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=90&lines=Welcome+to+my+Developer+Space;I%27m+Mohammad+Wahab;Software+Engineer;Flutter+%7C+Swift+%7C+Kotlin;Mobile++Application+Specialist" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=36&duration=3500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=100&multiline=true&lines=Welcome+to+my+Developer+Space;I%27m+Mohammad+Wahab;Software+Engineer;Flutter+%7C+Kotlin+%7C+Swift;Mobile+%26+Backend+Specialist" 
+    alt="Typing SVG" 
+  />
 </div>
 
 <div align="center">
-  <h3>Dhaka, Bangladesh  •  +880 1788 426128  •  <a href="mailto:awahabreja1@gmail.com">awahabreja1@gmail.com</a></h3>
+  <h3>Dhaka, Bangladesh • +880 1788 426128 • <a href="mailto:awahabreja1@gmail.com">awahabreja1@gmail.com</a></h3>
   <p>
     <a href="https://www.linkedin.com/in/mohammad-wahab-539b5a226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://github.com/wahabrej"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
+</div>
+
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
 </div>
 
 <!-- Gorgeous Professional Summary -->
@@ -17,7 +31,7 @@
   <p><strong>Senior Flutter & iOS Engineer</strong> | 2+ years delivering production-grade applications</p>
   
   <blockquote>
-    I architect high-performance, real-time mobile solutions that users love and businesses trust — 
+    I architect high-performance, real-time mobile solutions that users love and businesses trust —
     <strong>7+ apps successfully launched</strong> on the App Store and Google Play.
   </blockquote>
 
@@ -32,18 +46,31 @@
   <p><em>Immediately available for remote or onsite roles where code quality, performance, and user delight matter most.<br>Let’s build something extraordinary together.</em></p>
 </div>
 
----
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</div>
 
 ### Tech Stack
 <p align="center">
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/></a>
-  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/></a>
 </p>
 
 <p align="center">
+  <a href="https://dart.dev" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+</p>
+
+<p align="center">
   <a href="https://webrtc.org/" target="_blank"><img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/></a>
   <a href="https://stripe.com/" target="_blank"><img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/></a>
   <a href="https://riverpod.dev/" target="_blank"><img src="https://img.shields.io/badge/Riverpod-00BFFF?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod"/></a>
@@ -57,6 +84,17 @@
   <a href="https://developers.google.com/ml-kit" target="_blank"><img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 </p>
+
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</div>
 
 ### GitHub Stats
 <p align="center">
@@ -72,13 +110,32 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wahabrej&theme=dracula" alt="Profile Details Summary" width="85%" />
 </p>
 
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</div>
+
 ### GitHub Trophies
 <p align="center">
-  <!-- Using preview/fix branch from repo issues as temporary workaround -->
   <img src="https://github-profile-trophy-e8lb63f54-ryo-ma-s-team.vercel.app/?username=wahabrej&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
 </p>
 
----
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</div>
 
 ### Professional Experience
 
@@ -100,7 +157,16 @@ United Group (Orange Solution Ltd) — Dhaka, Bangladesh
 - Improved runtime performance by 30% and reduced app size by 20% via code & asset optimization  
 - Transformed raw data into intuitive, data-driven user interfaces  
 
----
+<!-- Animated gradient divider -->
+<div style="height: 2px; background: linear-gradient(90deg, #0ea5e9, #8b5cf6, #ec4899, #f43f5e, #8b5cf6, #0ea5e9); background-size: 300% 300%; animation: gradientFlow 8s ease infinite;">
+  <style>
+    @keyframes gradientFlow {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</div>
 
 Open to exciting collaborations, freelance projects, or full-time opportunities.  
 Let’s create mobile magic together! 🚀
