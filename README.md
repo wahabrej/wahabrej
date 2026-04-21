@@ -67,8 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
 </a>
   <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
   <a href="https://developers.google.com/ml-kit" target="_blank"><img src="https://img.shields.io/badge/Google%20ML%20Kit-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ML Kit"/></a>
