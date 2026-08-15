@@ -22,7 +22,7 @@
 <div align="center">
   <h2>🚀 Crafting next-generation mobile experiences with pixel-perfect precision</h2>
   
-  <p><strong>Senior Flutter & iOS Engineer</strong> | 2+ years delivering production-grade applications</p>
+  <p><strong>Senior Flutter & iOS Engineer</strong> | 3.6+ years delivering production-grade applications</p>
   
   <blockquote>
     I architect high-performance, real-time mobile solutions that users love and businesses trust —
